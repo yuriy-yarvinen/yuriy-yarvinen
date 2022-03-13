@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuriy-yarvinen fullstack web developer
 - 👀 I’m interested in web development
-- 📫 How to reach me yuriy.yarvi@gmail.com
+- 📫 How to reach me yuriy.yarvi@yandex.ru
 
 <!---
 yuriy-yarvinen/yuriy-yarvinen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
