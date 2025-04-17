@@ -63,10 +63,6 @@ I'm a fullstack web developer with expertise in modern web technologies, game de
       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="48" height="48" alt="Elasticsearch" />
       <br>Elasticsearch
     </td>
-
-  </tr>
-  <tr>
-
   </tr>
 </table>
 
