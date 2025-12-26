@@ -66,11 +66,6 @@ I'm a fullstack web developer with expertise in modern web technologies, game de
   </tr>
 </table>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriy-yarvinen&theme=radical&card_width=2000" alt="yuriy-yarvinen's GitHub streak" />
-</p>
-
 ## 👀 I'm interested in
 - Web development
 - Cloud architecture
