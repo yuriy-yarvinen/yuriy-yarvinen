@@ -1,10 +1,11 @@
 <h1 align="center">Yuriy Yarvinen</h1>
- 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=24292F&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Team+Lead+%26+Software+Engineer;PHP+%2F+Laravel+%2F+Vue+%2F+Node.js;Cloud+Architecture+%26+DevOps" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <a href="mailto:yuriy.yarvi@yandex.ru">
     <img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
@@ -19,21 +20,23 @@
     <img src="https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 ---
- 
+
 ### About
- 
+
 Fullstack web developer and team lead with deep experience across the stack - from low-level server administration to client-facing strategy. I build robust, efficient, and maintainable web applications, with a focus on clean architecture and performance.
- 
+
 - Currently leading a development team and shipping production web platforms
 - Comfortable across backend, frontend, infrastructure, and DevOps
 - Interested in cloud architecture, performance optimization, and applied AI tooling
+
 ---
- 
+
 ### Tech Stack
- 
+
 <h4>Languages & Frameworks</h4>
- 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -80,8 +83,9 @@ Fullstack web developer and team lead with deep experience across the stack - fr
     </td>
   </tr>
 </table>
+
 <h4>Platforms & CMS</h4>
- 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -94,8 +98,9 @@ Fullstack web developer and team lead with deep experience across the stack - fr
     </td>
   </tr>
 </table>
+
 <h4>Infrastructure & DevOps</h4>
- 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -116,8 +121,9 @@ Fullstack web developer and team lead with deep experience across the stack - fr
     </td>
   </tr>
 </table>
+
 <h4>Data & Storage</h4>
- 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -134,16 +140,17 @@ Fullstack web developer and team lead with deep experience across the stack - fr
     </td>
   </tr>
 </table>
+
 ---
- 
+
 ### GitHub Stats
- 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriy-yarvinen&hide_border=true&background=FFFFFF&ring=24292F&fire=24292F&currStreakLabel=24292F&sideLabels=57606A&dates=57606A&stroke=57606A" alt="GitHub Streak" />
 </p>
+
 ---
- 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuriy-yarvinen&color=24292F&style=flat-square&label=Profile+views" alt="Profile views">
 </p>
