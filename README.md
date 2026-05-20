@@ -74,10 +74,6 @@ Fullstack web developer and team lead with deep experience across the stack - fr
       <br>Vue.js
     </td>
     <td align="center" width="96">
-      <img src="https://yarvinen.ru/images/icons/bitrix-original.svg" width="48" height="48" alt="Bitrix" />
-      <br>Bitrix
-    </td>
-    <td align="center" width="96">
       <img src="https://yarvinen.ru/images/icons/claude-original.svg" width="48" height="48" alt="Claude" />
       <br>Claude
     </td>
@@ -88,6 +84,10 @@ Fullstack web developer and team lead with deep experience across the stack - fr
 
 <table>
   <tr>
+    <td align="center" width="96">
+      <img src="https://yarvinen.ru/images/icons/bitrix-original.png" width="48" height="48" alt="1C-Bitrix" />
+      <br>1С-Битрикс
+    </td>
     <td align="center" width="96">
       <img src="https://yarvinen.ru/images/icons/wordpress-original.svg" width="48" height="48" alt="WordPress" />
       <br>WordPress
