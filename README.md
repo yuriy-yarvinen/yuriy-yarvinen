@@ -117,14 +117,14 @@ Fullstack web developer and team lead with deep experience across the stack - fr
 ### GitHub Stats
  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=24292F&icon_color=24292F&text_color=57606A&bg_color=FFFFFF" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&title_color=24292F&text_color=57606A&bg_color=FFFFFF" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yuriy-yarvinen&show_icons=true&hide_border=true&title_color=24292F&icon_color=24292F&text_color=57606A&bg_color=FFFFFF" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriy-yarvinen&layout=compact&hide_border=true&title_color=24292F&text_color=57606A&bg_color=FFFFFF" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&hide_border=true&background=FFFFFF&ring=24292F&fire=24292F&currStreakLabel=24292F&sideLabels=57606A&dates=57606A&stroke=57606A" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriy-yarvinen&hide_border=true&background=FFFFFF&ring=24292F&fire=24292F&currStreakLabel=24292F&sideLabels=57606A&dates=57606A&stroke=57606A" alt="GitHub Streak" />
 </p>
 ---
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&color=24292F&style=flat-square&label=Profile+views" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=yuriy-yarvinen&color=24292F&style=flat-square&label=Profile+views" alt="Profile views">
 </p>
