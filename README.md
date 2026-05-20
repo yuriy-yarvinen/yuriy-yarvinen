@@ -32,7 +32,7 @@ Fullstack web developer and team lead with deep experience across the stack - fr
  
 ### Tech Stack
  
-**Languages & Frameworks**
+<h4>Languages & Frameworks</h4>
  
 <table>
   <tr>
@@ -41,24 +41,46 @@ Fullstack web developer and team lead with deep experience across the stack - fr
       <br>PHP
     </td>
     <td align="center" width="96">
+      <img src="https://yarvinen.ru/images/icons/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://yarvinen.ru/images/icons/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://yarvinen.ru/images/icons/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://yarvinen.ru/images/icons/go-original.svg" width="48" height="48" alt="Go" />
+      <br>Go
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <img src="https://yarvinen.ru/images/icons/laravel-2.svg" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://yarvinen.ru/images/icons/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+      <img src="https://yarvinen.ru/images/icons/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <img src="https://yarvinen.ru/images/icons/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
       <br>Vue.js
     </td>
     <td align="center" width="96">
-      <img src="https://yarvinen.ru/images/icons/csharp-original.svg" width="48" height="48" alt="C#" />
-      <br>C#
+      <img src="https://yarvinen.ru/images/icons/bitrix-original.svg" width="48" height="48" alt="Bitrix" />
+      <br>Bitrix
+    </td>
+    <td align="center" width="96">
+      <img src="https://yarvinen.ru/images/icons/claude-original.svg" width="48" height="48" alt="Claude" />
+      <br>Claude
     </td>
   </tr>
 </table>
-**Platforms & CMS**
+<h4>Platforms & CMS</h4>
  
 <table>
   <tr>
@@ -72,7 +94,7 @@ Fullstack web developer and team lead with deep experience across the stack - fr
     </td>
   </tr>
 </table>
-**Infrastructure & DevOps**
+<h4>Infrastructure & DevOps</h4>
  
 <table>
   <tr>
@@ -94,7 +116,7 @@ Fullstack web developer and team lead with deep experience across the stack - fr
     </td>
   </tr>
 </table>
-**Data & Storage**
+<h4>Data & Storage</h4>
  
 <table>
   <tr>
